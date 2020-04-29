@@ -121,12 +121,13 @@ This repository only consists of the implementation and testing scripts for SeSC
 
 ```latex
 @article{Peihao20SeSCI,
-   author    = {Peihao, Yang and Linghe, Kong and Xiao-Yang, Liu and Xin, Yuan},
+   author    = {Yang, Peihao and Kong, Linghe and Liu, Xiao-Yang and Yuan, Xin},
    title     = {Shearlet Enhanced Snapshot Compressive Imaging},
    journal   = {IEEE Transactions on Image Processing},
    publisher = {IEEE},
    year      = {2020},
-   type      = {Journal Article}
+   type      = {Journal Article},
+   doi       = {10.1109/TIP.2020.2989550},
 }
 ```
 
